@@ -1,8 +1,38 @@
+body {
+    background-color:gray;
+    color:white;
+    border-style:solid;
+    border-color:pink;
+    text-align:left;
+    margin:20pt;
+    padding:10pt;
+
+
+}
+
 header {
     font-size:large;
-    font-style:bold;
+    color:white;
+    Background-color: pink;
+    text-align:center;
 
 }
 h1 {
     font-size:small;
+    color:white;
+    Background-color: pink;
+    text-align:center;
+}
+
+h2 {
+    font-size:small;
+    color:white;
+    Background-color: pink;
+    text-align:center;
+}
+
+.table{
+    text-align:center;
+
+
 }
